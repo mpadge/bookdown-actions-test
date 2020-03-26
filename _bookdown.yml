@@ -1,0 +1,6 @@
+book_filename: "bookdown ghactions test"
+chapter_name: "Chapter "
+repo: https://github.com/mpadge/bookdown-actions-test
+output_dir: docs
+rmd_files: ["index.Rmd"]
+new_session: yes

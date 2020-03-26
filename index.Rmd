@@ -1,0 +1,24 @@
+```{r include=FALSE, cache=FALSE}
+knitr::opts_chunk$set(
+  cache = TRUE,
+  echo = FALSE
+)
+```
+
+--- 
+title: "bookdown ghactions test"
+author: "Mark Padgham"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+github-repo: ropenscilabs/mpadge/bookdown-actions-test
+url: 'https\://mpadge.github.io/bookdown-actions-test'
+apple-touch-icon: "favicon/apple-touch-icon.png"
+apple-touch-icon-size: 120
+favicon: "favicon/favicon.ico"
+---
+
+# Test
+
+Blah blah blah
+

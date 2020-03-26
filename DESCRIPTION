@@ -1,0 +1,19 @@
+Package: bookdown-actions-test
+Title: Test of bookdown with github actions
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Mark",
+             family = "Padgham",
+             role = c("cre", "aut"),
+             email = "mark.padgham@email.com",
+             comment = c(ORCID = "0000-0003-2172-5265"))
+Description: Test of bookdown with github actions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Imports: 
+    bookdown,
+    dplyr,
+    rvest,
+    knitr
