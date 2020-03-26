@@ -15,5 +15,4 @@ Roxygen: list(markdown = TRUE)
 Imports: 
     bookdown,
     dplyr,
-    rvest,
     knitr
