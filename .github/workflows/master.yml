@@ -41,6 +41,7 @@ jobs:
 
             - name: Render Book
               run: Rscript -e 'bookdown::render_book("index.Rmd")'
+
             - name: Commit results
               run: |
                   cd docs
